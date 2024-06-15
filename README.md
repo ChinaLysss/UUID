@@ -8,5 +8,6 @@
 ------------
 
 *Q:我该如何修改为自己的验证库？
+
 A:`url = "https://gitcode.net/bnamc/testreadurl/-/raw/master/Version"`
 将这一行中的URL地址修改为你的项目地址即可~*
